@@ -12,6 +12,10 @@
   "author": "thismr",
   "license": "ISC",
   "dependencies": {
-    "openzeppelin-solidity": "^4.4.2"
+    "chai": "^4.3.6",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^3.0.0",
+    "openzeppelin-solidity": "^4.4.2",
+    "web3": "^1.7.0"
   }
 }
